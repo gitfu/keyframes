@@ -8,7 +8,7 @@ pythonic  mpegts keyframe detection.
 git clone https://github.com/gitfu/keyframes.git
 ```
 
-* install dependencies ( *requires python3.6+ or pypy3)
+* install dependencies ( requires python3.6+ or pypy3)
 
 ```smalltalk
 python3 -mpip install threefive
@@ -27,7 +27,7 @@ install keyframes.py /usr/local/bin
 
 keyframes.py myvideo.ts
 ```
-* output *(pid, pts)
+* output (pid, pts)
 ```smalltalk
 myvideo.ts
 49 17124.349156
